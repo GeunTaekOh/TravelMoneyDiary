@@ -1,6 +1,6 @@
-#2016-2 OpenSoureceSoftware Class
+# 2016-2 OpenSoureceSoftware Class
 
-##Team Project by There-Is-Senior
+## Team Project by There-Is-Senior
 
 Oh Geun Taek
 Lee Sang Wook
@@ -11,7 +11,7 @@ Kim Tae Woo
 --------------------------------
 
 
-##How to use
+## How to use
 
 환율이 받아져서 사용 할 수 있는 여행 가계부 어플입니다.
 
@@ -28,7 +28,7 @@ write부분에서 국가를 선택하면 아래부분에 한국돈으로 바꾼 
 
 ---
 
-##Image
+## Image
 ![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme1.jpg)
 > Splash Image
 ![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme2.jpg)
