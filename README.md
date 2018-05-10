@@ -29,11 +29,11 @@ write부분에서 국가를 선택하면 아래부분에 한국돈으로 바꾼 
 ---
 
 ## Image
-![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme1.jpg)  
-Splash Image  
-![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme2.jpg)  
-Main Image  
-![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme3.jpg)  
-Income & Expense Image  
-![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme4.jpg)  
-Inquiry Image  
+<img src="/res/readme1.png" width="259" height="479">  
+* Splash Image  
+<img src="/res/readme2.png" width="259" height="479">
+* Main Image  
+<img src="/res/readme3.png" width="259" height="479">
+* Income & Expense Image    
+<img src="/res/readme4.png" width="259" height="479">
+* Inquiry Image    
