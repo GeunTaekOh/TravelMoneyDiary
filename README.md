@@ -2,11 +2,11 @@
 
 ## Team Project by There-Is-Senior
 
-Oh Geun Taek
-Lee Sang Wook
-Choi Dae Ho
-Ji Young Seok
-Kim Tae Woo
+Oh Geun Taek  
+Lee Sang Wook  
+Choi Dae Ho  
+Ji Young Seok  
+Kim Tae Woo  
 
 --------------------------------
 
@@ -29,11 +29,11 @@ write부분에서 국가를 선택하면 아래부분에 한국돈으로 바꾼 
 ---
 
 ## Image
-![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme1.jpg)
-> Splash Image
-![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme2.jpg)
-> Main Image
-![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme3.jpg)
-> Income & Expense Image
-![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme4.jpg)
-> Inquiry Image
+![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme1.jpg)  
+> Splash Image  
+![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme2.jpg)  
+> Main Image  
+![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme3.jpg)  
+> Income & Expense Image  
+![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme4.jpg)  
+> Inquiry Image  
