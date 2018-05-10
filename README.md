@@ -30,10 +30,10 @@ write부분에서 국가를 선택하면 아래부분에 한국돈으로 바꾼 
 
 ## Image
 ![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme1.jpg)  
-> Splash Image  
+Splash Image  
 ![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme2.jpg)  
-> Main Image  
+Main Image  
 ![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme3.jpg)  
-> Income & Expense Image  
+Income & Expense Image  
 ![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme4.jpg)  
-> Inquiry Image  
+Inquiry Image  
