@@ -30,10 +30,19 @@ write부분에서 국가를 선택하면 아래부분에 한국돈으로 바꾼 
 
 ## Image
 <img src="/res/readme1.png" width="259" height="479">  
-* Splash Image  
+* Splash Image
+
+
+
 <img src="/res/readme2.png" width="259" height="479">
-* Main Image  
+* Main Image
+
+
 <img src="/res/readme3.png" width="259" height="479">
-* Income & Expense Image    
+* Income & Expense Image
+
+
 <img src="/res/readme4.png" width="259" height="479">
-* Inquiry Image    
+* Inquiry Image
+
+
