@@ -1,16 +1,17 @@
-2016-2 OpenSoureceSoftware Class
+#2016-2 OpenSoureceSoftware Class
 
-Team Project by There-Is-Senior
+##Team Project by There-Is-Senior
 
-Lee Sang Wook
 Oh Geun Taek
+Lee Sang Wook
 Choi Dae Ho
 Ji Young Seok
 Kim Tae Woo
 
 --------------------------------
 
-How to use
+
+##How to use
 
 환율이 받아져서 사용 할 수 있는 여행 가계부 어플입니다.
 
@@ -24,3 +25,15 @@ Search버튼을 누르고 날짜를 입력하고 조회 버튼을 누르면 표�
 클릭시 나오는 원형 표는 클릭하면 그 부분이 확대되어 강조되고, 드래그를 하여서 표를 회전시킬수 있습니다.
 
 write부분에서 국가를 선택하면 아래부분에 한국돈으로 바꾼 값이 뜨며, 데이터베이스에 이 값이 입력되고, 메인화면에서 today`s income과 today`s expense에 반영되어 값이 저장됩니다.
+
+---
+
+##Image
+![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme1.jpg)
+> Splash Image
+![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme2.jpg)
+> Main Image
+![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme3.jpg)
+> Income & Expense Image
+![Alt text](https://github.com/GeunTeakOh/TravelMoneyDiary/tree/master/res/readme4.jpg)
+> Inquiry Image
