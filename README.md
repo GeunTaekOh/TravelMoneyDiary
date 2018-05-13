@@ -9,7 +9,10 @@ Ji Young Seok
 Kim Tae Woo  
 
 --------------------------------
+## Documents
+https://bit.ly/2Kkg8YS
 
+---
 
 ## How to use
 
